@@ -1,4 +1,4 @@
-# 🕒 Time Wasters on Social Media — Data Analysis Project  
+# 🕒 Time Wasters on Social Media Analysis
 
 
 ![Project Overview](https://github.com/shafanashereef/Time-wasters-on-social-media-Analysis/blob/main/socialmediatimewaters.jpg)
